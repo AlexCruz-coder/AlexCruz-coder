@@ -1,6 +1,6 @@
 # Alex Cruz
 
-## Desenvolvedor Back-End Java
+## Java Backend Developer
 Trabalho com sistemas construído em Java e Regra de Negócio em Banco de Dados Oracle (PL/SQL). 
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCruz-coder&show_icons=true&theme=radical)
