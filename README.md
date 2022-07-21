@@ -6,7 +6,7 @@ Trabalho com sistemas construído em Java e Regra de Negócio em Banco de Dados 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCruz-coder&show_icons=true&theme=radical)
 
 ### Contatos
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](alexcruz@outlook.com.br)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](emailto:alexcruz@outlook.com.br)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexbenicio/)
 
 ## Tecnologias
