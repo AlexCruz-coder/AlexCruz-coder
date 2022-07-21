@@ -3,29 +3,32 @@
 ## Desenvolvedor Back-End Java
 Trabalho com sistemas construído em Java e Regra de Negócio em Banco de Dados Oracle (PL/SQL). 
 
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCruz-coder&show_icons=true&theme=radical)
+
 ## Tecnologias
 
 ### Linguagens de Programação
-Java - Trabalho atualmente
-C# - Básico
-Python - Básico
-
-### Ferramentas
-Apache Kafka - Conhecimento Básico
-Apache Tomcat - Trabalho atualmente
-Apache ActiveMQ - Trabalho atualmente
+<div style="display: inline_block">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
 
 ### Frameworks
-Spring Boot - Trabalho atualmente 
+<div>
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
 
 ### SGBD
-Oracle PL/SQL - Trabalho atualmente, realizando manutenções em RN (Procedures, Functions, Triggers, Jobs)
-SQL Server - Trabalhei 8 anos com sistemas em SQL Server
-SQLite - Atuei como líder na célula de suporte em Sistema com Banco SQLite
-MySql - Básico
+<div style="display: inline_block">
+    <img align="center" alt="PL SQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+</div>
 
 ### FrontEnd
-React - Conhecimento Básico
-Angular - Conhecimento Básico
+<div style="display: inline_block">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="Angular" src="	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</div>
 
 
